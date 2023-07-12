@@ -33,7 +33,7 @@
         text
       >
         <span class="mr-2">Latest Release</span>
-        <v-icon>open_in_new</v-icon>
+        <v-icon>mdi-pencil</v-icon>
       </v-btn>
     </v-app-bar>
 
